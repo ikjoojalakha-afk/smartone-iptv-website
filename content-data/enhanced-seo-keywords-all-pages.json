@@ -1,0 +1,523 @@
+{
+  "document_title": "Enhanced SEO Keywords for All Pages - BuySmartOneIPTV.com",
+  "last_updated": "2024-10-27",
+  "purpose": "This file contains comprehensive SEO keyword mapping for all website pages based on competitive analysis",
+  
+  "homepage": {
+    "url": "/",
+    "primary_keywords": [
+      "IPTV USA",
+      "buy IPTV",
+      "premium IPTV",
+      "best IPTV provider USA"
+    ],
+    "secondary_keywords": [
+      "IPTV service",
+      "IPTV subscription",
+      "4K IPTV",
+      "IPTV channels",
+      "IPTV free trial USA"
+    ],
+    "long_tail_keywords": [
+      "best IPTV service for USA in 2024",
+      "premium IPTV USA subscription",
+      "IPTV free trial no credit card",
+      "reliable IPTV subscription US",
+      "4K IPTV streaming service USA"
+    ],
+    "seo": {
+      "title": "Buy Smart One IPTV - Premium IPTV Service USA | 10,000+ Live Channels",
+      "meta_description": "Get the best IPTV service in USA with 10,000+ live channels, sports, movies, and TV shows. 4K streaming, 7-day free trial, 24/7 support. Start watching today!",
+      "h1": "Stream 10,000+ Live TV Channels with Premium IPTV",
+      "canonical": "https://buysmartoneiptv.com/"
+    },
+    "schema_types": ["Organization", "BroadcastService"],
+    "content_optimization_notes": "Include keyword in first paragraph, emphasize USA market, highlight 7-day free trial advantage"
+  },
+
+  "pricing_page": {
+    "url": "/pricing/",
+    "primary_keywords": [
+      "IPTV subscription plans USA",
+      "IPTV pricing",
+      "cheap IPTV plans USA"
+    ],
+    "secondary_keywords": [
+      "IPTV package deals",
+      "best value IPTV",
+      "IPTV monthly subscription",
+      "IPTV yearly plan"
+    ],
+    "long_tail_keywords": [
+      "affordable IPTV subscription USA",
+      "IPTV package deals for US customers",
+      "best value IPTV service America",
+      "IPTV subscription save money vs cable"
+    ],
+    "seo": {
+      "title": "IPTV Subscription Plans & Pricing - Best Value IPTV USA | Free Trial",
+      "meta_description": "Affordable IPTV subscription plans starting at $19.99/month. All plans include 10,000+ channels, 4K streaming, and 24/7 support. 7-day free trial available.",
+      "h1": "IPTV Subscription Plans - Choose Your Perfect Package",
+      "canonical": "https://buysmartoneiptv.com/pricing/"
+    },
+    "schema_types": ["Product", "Offer"],
+    "content_optimization_notes": "Highlight cost savings vs competitors, emphasize no contracts, showcase value proposition"
+  },
+
+  "channels_page": {
+    "url": "/channel-list/",
+    "primary_keywords": [
+      "IPTV channel list",
+      "IPTV channels USA"
+    ],
+    "secondary_keywords": [
+      "sports IPTV channels",
+      "movie IPTV channels",
+      "news IPTV channels",
+      "international IPTV channels"
+    ],
+    "long_tail_keywords": [
+      "complete IPTV channel list USA",
+      "IPTV with ESPN and sports channels",
+      "IPTV that includes NFL games USA",
+      "IPTV for Spanish channels in USA",
+      "IPTV with HBO and premium channels USA"
+    ],
+    "seo": {
+      "title": "IPTV Channel List - 10,000+ Live Channels | Sports, Movies, News & More",
+      "meta_description": "Explore our complete IPTV channel list with 500+ sports channels, 800+ movie channels, international content, and premium networks. Browse all available channels.",
+      "h1": "Complete IPTV Channel List - 10,000+ Live Channels",
+      "canonical": "https://buysmartoneiptv.com/channel-list/"
+    },
+    "schema_types": ["ItemList"],
+    "content_optimization_notes": "Organize by categories, list popular channels by name, include channel counts"
+  },
+
+  "faq_page": {
+    "url": "/faq/",
+    "primary_keywords": [
+      "IPTV FAQ",
+      "IPTV questions"
+    ],
+    "secondary_keywords": [
+      "is IPTV legal USA",
+      "how does IPTV work",
+      "IPTV setup guide"
+    ],
+    "long_tail_keywords": [
+      "common questions about IPTV service",
+      "is IPTV legal in United States",
+      "what devices work with IPTV",
+      "how to cancel IPTV subscription",
+      "IPTV free trial terms and conditions"
+    ],
+    "seo": {
+      "title": "IPTV FAQ - Common Questions About IPTV Service in USA",
+      "meta_description": "Get answers to frequently asked questions about IPTV service, setup, pricing, device compatibility, and more. Expert support available 24/7.",
+      "h1": "Frequently Asked Questions About IPTV",
+      "canonical": "https://buysmartoneiptv.com/faq/"
+    },
+    "schema_types": ["FAQPage"],
+    "content_optimization_notes": "Use Yoast FAQ blocks for automatic schema, answer long-tail question keywords"
+  },
+
+  "contact_page": {
+    "url": "/contact/",
+    "primary_keywords": [
+      "IPTV support",
+      "IPTV customer service"
+    ],
+    "secondary_keywords": [
+      "contact IPTV provider",
+      "IPTV help",
+      "24/7 IPTV support"
+    ],
+    "seo": {
+      "title": "Contact Us - 24/7 IPTV Customer Support | Smart One IPTV",
+      "meta_description": "Need help? Contact Smart One IPTV support team 24/7 via live chat, email, or WhatsApp. Quick response guaranteed. We're here to help!",
+      "h1": "Contact Smart One IPTV - 24/7 Support",
+      "canonical": "https://buysmartoneiptv.com/contact/"
+    },
+    "schema_types": ["ContactPage"],
+    "content_optimization_notes": "Highlight 24/7 availability, multiple contact methods, fast response time"
+  },
+
+  "about_page": {
+    "url": "/about/",
+    "primary_keywords": [
+      "about Smart One IPTV",
+      "IPTV provider USA"
+    ],
+    "secondary_keywords": [
+      "trusted IPTV service",
+      "reliable IPTV provider",
+      "IPTV company"
+    ],
+    "seo": {
+      "title": "About Smart One IPTV - Trusted IPTV Provider Since 2020",
+      "meta_description": "Learn about Smart One IPTV, a leading IPTV provider serving 50,000+ customers with 10,000+ channels. Founded in 2020, trusted for reliability and quality.",
+      "h1": "About Smart One IPTV - Your Trusted IPTV Provider",
+      "canonical": "https://buysmartoneiptv.com/about/"
+    },
+    "schema_types": ["AboutPage", "Organization"],
+    "content_optimization_notes": "Build trust with company story, milestones, customer testimonials"
+  },
+
+  "how_it_works_page": {
+    "url": "/how-it-works/",
+    "primary_keywords": [
+      "how IPTV works",
+      "IPTV setup guide"
+    ],
+    "secondary_keywords": [
+      "what is IPTV",
+      "IPTV installation",
+      "IPTV for beginners"
+    ],
+    "long_tail_keywords": [
+      "how to install IPTV on Fire Stick in the USA",
+      "IPTV setup guide for beginners USA",
+      "what is IPTV and how does it work",
+      "IPTV installation step by step"
+    ],
+    "seo": {
+      "title": "How IPTV Works - Complete Setup Guide | Smart One IPTV",
+      "meta_description": "Learn how IPTV works and how to set it up on any device. Step-by-step guides for Fire Stick, Smart TV, Android, and more. Get started in 5 minutes!",
+      "h1": "How IPTV Works - Complete Guide for Beginners",
+      "canonical": "https://buysmartoneiptv.com/how-it-works/"
+    },
+    "schema_types": ["HowTo"],
+    "content_optimization_notes": "Include device-specific guides, step-by-step instructions, video tutorials"
+  },
+
+  "blog_posts": {
+    "category_pages": {
+      "guides": {
+        "url": "/blog/category/guides/",
+        "keywords": ["IPTV guides", "IPTV tutorials", "IPTV setup guides"],
+        "seo": {
+          "title": "IPTV Setup Guides & Tutorials - How-To Articles",
+          "meta_description": "Complete IPTV guides and tutorials. Learn how to set up, troubleshoot, and optimize your IPTV service. Expert tips and step-by-step instructions."
+        }
+      },
+      "comparisons": {
+        "url": "/blog/category/comparisons/",
+        "keywords": ["IPTV comparisons", "IPTV vs cable", "best IPTV providers"],
+        "seo": {
+          "title": "IPTV Comparisons - Provider Reviews & Analysis",
+          "meta_description": "Compare IPTV providers, features, and pricing. Detailed reviews and analysis to help you choose the best IPTV service for your needs."
+        }
+      },
+      "news": {
+        "url": "/blog/category/news/",
+        "keywords": ["IPTV news", "IPTV updates", "new IPTV features"],
+        "seo": {
+          "title": "IPTV News & Updates - Latest Industry Developments",
+          "meta_description": "Stay updated with the latest IPTV news, channel additions, feature updates, and industry developments. Never miss an update!"
+        }
+      }
+    },
+    "recommended_posts": [
+      {
+        "title": "Best IPTV Providers in USA 2024 - Complete Comparison",
+        "url": "/blog/best-iptv-providers-usa-2024/",
+        "focus_keyword": "best IPTV providers USA",
+        "target_word_count": 2500,
+        "h1": "Best IPTV Providers in USA 2024 - Complete Comparison Guide",
+        "meta_description": "Discover the best IPTV providers in USA for 2024. Compare features, pricing, channels, and customer reviews. Find the perfect IPTV service for your needs.",
+        "internal_links": ["pricing page", "channel list", "FAQ"],
+        "content_outline": [
+          "Introduction to IPTV in USA",
+          "Top 10 IPTV Providers Comparison",
+          "Smart One IPTV Review",
+          "Features to Look For",
+          "Pricing Comparison Table",
+          "Customer Reviews",
+          "Final Recommendations"
+        ]
+      },
+      {
+        "title": "How to Install IPTV on Amazon Fire Stick - Complete Guide",
+        "url": "/blog/install-iptv-firestick-guide/",
+        "focus_keyword": "IPTV for Firestick USA",
+        "target_word_count": 2000,
+        "h1": "How to Install IPTV on Amazon Fire Stick - Step-by-Step Guide",
+        "meta_description": "Learn how to install IPTV on Fire Stick in 5 easy steps. Complete guide with screenshots, video tutorial, and troubleshooting tips. Start streaming today!",
+        "internal_links": ["free trial", "how it works", "contact support"],
+        "content_outline": [
+          "What You'll Need",
+          "Step 1: Prepare Your Fire Stick",
+          "Step 2: Download IPTV App",
+          "Step 3: Enter Credentials",
+          "Step 4: Configure Settings",
+          "Step 5: Start Watching",
+          "Troubleshooting Common Issues"
+        ]
+      },
+      {
+        "title": "IPTV vs Cable TV: Which is Better in 2024?",
+        "url": "/blog/iptv-vs-cable-tv-comparison/",
+        "focus_keyword": "IPTV vs cable",
+        "target_word_count": 2200,
+        "h1": "IPTV vs Cable TV: Which is Better in 2024?",
+        "meta_description": "Compare IPTV vs Cable TV in 2024. Discover cost savings, channel selection, and features. See why thousands are switching from cable to IPTV.",
+        "internal_links": ["pricing page", "channel list"],
+        "content_outline": [
+          "Introduction",
+          "Cost Comparison",
+          "Channel Selection",
+          "Features & Flexibility",
+          "Quality & Reliability",
+          "Device Compatibility",
+          "Pros & Cons of Each",
+          "Which Should You Choose?"
+        ]
+      },
+      {
+        "title": "Is IPTV Legal in the United States? Everything You Need to Know",
+        "url": "/blog/is-iptv-legal-usa/",
+        "focus_keyword": "is IPTV legal USA",
+        "target_word_count": 1800,
+        "h1": "Is IPTV Legal in the United States? Everything You Need to Know",
+        "meta_description": "Wondering if IPTV is legal in the USA? Get the facts about IPTV legality, regulations, and how to choose a legitimate IPTV service provider.",
+        "internal_links": ["about page", "FAQ"],
+        "content_outline": [
+          "Understanding IPTV Technology",
+          "IPTV Legality in USA",
+          "Legal vs Illegal IPTV Services",
+          "How to Choose Legal IPTV",
+          "Smart One IPTV Legitimacy",
+          "Your Rights as Consumer",
+          "Conclusion"
+        ]
+      },
+      {
+        "title": "How to Fix IPTV Buffering Issues - Complete Troubleshooting Guide",
+        "url": "/blog/fix-iptv-buffering-issues/",
+        "focus_keyword": "IPTV buffering fix",
+        "target_word_count": 2000,
+        "h1": "How to Fix IPTV Buffering Issues - Complete Troubleshooting Guide",
+        "meta_description": "IPTV buffering? Learn how to fix common buffering issues with our complete troubleshooting guide. Improve streaming quality and enjoy buffer-free viewing.",
+        "internal_links": ["contact support", "how it works"],
+        "content_outline": [
+          "Why IPTV Buffers",
+          "Check Your Internet Speed",
+          "Router Optimization",
+          "Device Settings",
+          "App Configuration",
+          "Server Selection",
+          "Advanced Solutions",
+          "When to Contact Support"
+        ]
+      },
+      {
+        "title": "Top 10 Sports Channels on IPTV for US Sports Fans",
+        "url": "/blog/best-sports-channels-iptv-usa/",
+        "focus_keyword": "IPTV sports channels USA",
+        "target_word_count": 1800,
+        "h1": "Top 10 Sports Channels on IPTV for US Sports Fans",
+        "meta_description": "Discover the best sports channels available on IPTV. Watch NFL, NBA, MLB, NHL, and more. Never miss your favorite games with Smart One IPTV.",
+        "internal_links": ["channel list", "pricing page", "free trial"],
+        "content_outline": [
+          "Introduction",
+          "ESPN Family Networks",
+          "Fox Sports Channels",
+          "NBC Sports",
+          "NBA TV & NFL Network",
+          "Regional Sports Networks",
+          "International Sports Channels",
+          "PPV & Premium Events",
+          "How to Access These Channels"
+        ]
+      },
+      {
+        "title": "IPTV Setup Guide for Beginners - Start Streaming in 5 Minutes",
+        "url": "/blog/iptv-setup-guide-beginners/",
+        "focus_keyword": "IPTV setup guide",
+        "target_word_count": 2000,
+        "h1": "IPTV Setup Guide for Beginners - Start Streaming in 5 Minutes",
+        "meta_description": "New to IPTV? This beginner's guide will help you set up IPTV on any device in just 5 minutes. Easy step-by-step instructions with screenshots.",
+        "internal_links": ["how it works", "free trial", "FAQ"],
+        "content_outline": [
+          "What is IPTV?",
+          "What You Need to Get Started",
+          "Choosing the Right Device",
+          "Quick Setup Process",
+          "Common First-Time Questions",
+          "Tips for Best Experience",
+          "Getting Help"
+        ]
+      },
+      {
+        "title": "Best IPTV Apps for Android and Smart TV in 2024",
+        "url": "/blog/best-iptv-apps-android-smart-tv/",
+        "focus_keyword": "best IPTV app Android",
+        "target_word_count": 2000,
+        "h1": "Best IPTV Apps for Android and Smart TV in 2024",
+        "meta_description": "Find the best IPTV apps for Android devices and Smart TVs. Compare features, compatibility, and user reviews. Download and start streaming today!",
+        "internal_links": ["how it works", "channel list"],
+        "content_outline": [
+          "Introduction to IPTV Apps",
+          "Top IPTV Apps for Android",
+          "Best Apps for Smart TV",
+          "Features Comparison",
+          "Installation Guides",
+          "Which App Should You Choose?",
+          "Conclusion"
+        ]
+      },
+      {
+        "title": "How Much Can You Save by Switching from Cable to IPTV?",
+        "url": "/blog/save-money-iptv-vs-cable/",
+        "focus_keyword": "save money IPTV vs cable",
+        "target_word_count": 1800,
+        "h1": "How Much Can You Save by Switching from Cable to IPTV?",
+        "meta_description": "Calculate your savings when switching from cable to IPTV. See real cost comparisons, break down monthly expenses, and discover how much you can save annually.",
+        "internal_links": ["pricing page", "IPTV vs cable comparison"],
+        "content_outline": [
+          "Average Cable TV Costs 2024",
+          "IPTV Subscription Costs",
+          "Monthly Savings Breakdown",
+          "Annual Savings Calculator",
+          "Additional Benefits Beyond Cost",
+          "Real Customer Savings Stories",
+          "How to Make the Switch"
+        ]
+      },
+      {
+        "title": "IPTV for Sports: Watch NFL, NBA, MLB, NHL Live",
+        "url": "/blog/iptv-for-sports-usa/",
+        "focus_keyword": "IPTV for sports USA",
+        "target_word_count": 2000,
+        "h1": "IPTV for Sports: Watch NFL, NBA, MLB, NHL Live",
+        "meta_description": "Sports fan? Get access to all major sports leagues with IPTV. Watch NFL, NBA, MLB, NHL, and more live. Never miss a game with Smart One IPTV.",
+        "internal_links": ["channel list", "sports channels post", "free trial"],
+        "content_outline": [
+          "Why IPTV is Perfect for Sports",
+          "NFL Coverage",
+          "NBA & College Basketball",
+          "MLB Baseball",
+          "NHL Hockey",
+          "Soccer & International Sports",
+          "PPV Events & Fight Night",
+          "Multi-View Features",
+          "Get Started with Sports IPTV"
+        ]
+      }
+    ]
+  },
+
+  "device_specific_pages": {
+    "firestick": {
+      "url": "/devices/firestick/",
+      "focus_keyword": "IPTV for Firestick",
+      "seo": {
+        "title": "IPTV for Amazon Fire Stick - Easy Setup Guide | Smart One IPTV",
+        "meta_description": "Install Smart One IPTV on your Fire Stick in 5 minutes. Step-by-step guide, video tutorial, and expert support. Start streaming 10,000+ channels today!"
+      }
+    },
+    "smart_tv": {
+      "url": "/devices/smart-tv/",
+      "focus_keyword": "IPTV for Smart TV",
+      "seo": {
+        "title": "IPTV for Smart TV - Android TV, Samsung, LG | Smart One IPTV",
+        "meta_description": "Watch IPTV on your Smart TV. Compatible with Android TV, Samsung, LG, and more. Easy setup, 4K streaming, 10,000+ channels."
+      }
+    },
+    "apple_tv": {
+      "url": "/devices/apple-tv/",
+      "focus_keyword": "IPTV for Apple TV",
+      "seo": {
+        "title": "IPTV for Apple TV & iOS - iPhone, iPad | Smart One IPTV",
+        "meta_description": "Stream IPTV on Apple TV, iPhone, and iPad. Premium iOS app with 10,000+ channels. Easy setup, beautiful interface, flawless streaming."
+      }
+    }
+  },
+
+  "competitor_comparison_pages": {
+    "general_comparison": {
+      "url": "/compare/",
+      "focus_keyword": "compare IPTV providers USA",
+      "seo": {
+        "title": "Compare IPTV Providers - Smart One vs Competitors | Best IPTV USA",
+        "meta_description": "Compare Smart One IPTV with other providers. See features, pricing, channels, and reviews side-by-side. Find the best IPTV service for you."
+      }
+    }
+  },
+
+  "local_seo_pages": {
+    "note": "Consider creating location-based pages if targeting specific US cities",
+    "examples": [
+      {
+        "location": "New York",
+        "url": "/iptv-new-york/",
+        "focus_keyword": "IPTV service New York",
+        "seo": {
+          "title": "IPTV Service in New York - Best IPTV Provider NY | Smart One IPTV",
+          "meta_description": "Premium IPTV service in New York. Stream 10,000+ channels including local NY channels. 7-day free trial, 24/7 support. Serving NYC and surrounding areas."
+        }
+      },
+      {
+        "location": "Los Angeles",
+        "url": "/iptv-los-angeles/",
+        "focus_keyword": "IPTV service Los Angeles",
+        "seo": {
+          "title": "IPTV Service in Los Angeles - Best IPTV Provider LA | Smart One IPTV",
+          "meta_description": "Premium IPTV service in Los Angeles. Stream 10,000+ channels including local LA channels. 7-day free trial, 24/7 support. Serving LA County."
+        }
+      }
+    ]
+  },
+
+  "keyword_research_data": {
+    "high_volume_keywords": [
+      {"keyword": "IPTV", "monthly_searches": "High", "difficulty": "High", "priority": "Primary"},
+      {"keyword": "buy IPTV", "monthly_searches": "High", "difficulty": "Medium", "priority": "Primary"},
+      {"keyword": "IPTV USA", "monthly_searches": "Medium-High", "difficulty": "Medium", "priority": "Primary"},
+      {"keyword": "best IPTV", "monthly_searches": "High", "difficulty": "High", "priority": "Secondary"},
+      {"keyword": "IPTV subscription", "monthly_searches": "Medium", "difficulty": "Medium", "priority": "Primary"}
+    ],
+    "long_tail_opportunities": [
+      {"keyword": "IPTV for Firestick USA", "monthly_searches": "Medium", "difficulty": "Low", "priority": "High"},
+      {"keyword": "is IPTV legal in USA", "monthly_searches": "Medium", "difficulty": "Low", "priority": "High"},
+      {"keyword": "how to install IPTV", "monthly_searches": "Medium", "difficulty": "Low", "priority": "High"},
+      {"keyword": "IPTV vs cable", "monthly_searches": "Medium", "difficulty": "Low", "priority": "High"},
+      {"keyword": "best IPTV for sports USA", "monthly_searches": "Low-Medium", "difficulty": "Low", "priority": "Medium"}
+    ],
+    "buyer_intent_keywords": [
+      "buy IPTV subscription",
+      "IPTV free trial",
+      "cheap IPTV USA",
+      "IPTV pricing",
+      "IPTV deals"
+    ]
+  },
+
+  "implementation_priority": {
+    "immediate": [
+      "Optimize homepage with primary keywords",
+      "Optimize pricing page",
+      "Optimize channel list page",
+      "Create FAQ page with schema",
+      "Set up Google Search Console"
+    ],
+    "week_1": [
+      "Write first 3 blog posts (Firestick guide, comparison, FAQ)",
+      "Implement schema markup on all pages",
+      "Add alt text to all images",
+      "Configure internal linking"
+    ],
+    "week_2-4": [
+      "Publish remaining blog posts",
+      "Create device-specific pages",
+      "Build quality backlinks",
+      "Monitor and refine based on GSC data"
+    ],
+    "ongoing": [
+      "Weekly blog content",
+      "Monthly content updates",
+      "Continuous link building",
+      "Performance monitoring"
+    ]
+  }
+}
